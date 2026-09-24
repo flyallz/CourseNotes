@@ -1,0 +1,897 @@
+# AI4ES：人工智能驱动的教育科学研究
+
+时间：2026.09.24
+
+主讲人：孙建文
+
+## 1. 时代变革——时代之变、教育之变、科学之变
+
+### 时代之变：人类文明进入智能时代
+
+农耕时代-工业时代-智能时代
+
+物质-能量-信息
+
+![51214993b6848f73577f802bf03a4d24](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/51214993b6848f73577f802bf03a4d24.jpg)
+
+### 时代之变：AI全方位重构经济社会
+
+- 智能体应用不断深化
+
+- 从大模型到多智能体
+
+- 垂类大模型不断增多
+
+- 大模型性能不断提升
+
+- 各类大模型不断涌现
+
+  ![a25af5ef996e54923331c4dba6816fff](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/a25af5ef996e54923331c4dba6816fff.jpg)
+
+### 时代之变：智能时代的人类之问
+
+**“当机器开始思考，人类如何与之相处？当算法参与决策，安全如何保障？当技术挑战伦理，治理如何跟上？当鸿沟不断拉大，普惠如何实现？”**
+
+三重改变：劳动形态（人机分工协作）、组织形态（人机混合系统）、运行机制（底层基础设施）
+
+### 教育之变：AI全面影响教育系统
+
+教育是社会子系统（教育受技术、经济、文化共同影响）
+
+AI深入教育（AI成为教学新角色 助教、学伴、评价者）
+
+人才需求升级（从“知识记忆”走向“创新、判断、人机协作”）
+
+### 教育之变：AI为教育带来全新逻辑
+
+智能时代
+
+- 新角色
+- 新目标
+- 新场景
+- 新评价
+- 新形态
+
+从知识掌握到高阶能力与核心素养、从课堂扩展到人机协同、虚实融合、AI成为教师、学伴、评价者、个性化瘀终身学习成为常态、从纸笔测试到过程性、多模态诊断
+
+![1661af3930f00e7a5920837cf4e59aa7](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/1661af3930f00e7a5920837cf4e59aa7.jpg)
+
+### 教育之变：AI时代教育研究新议题
+
+教育智能化石大前沿方向
+
+- 智能时代的教育理论
+- 智能教育研究新范式
+- 学习主体神经机制与认知计算
+- 教育大模型与教育智能体
+- 多尺度跨场景的教育智能感知
+- 开放复杂场景下学习规律挖掘
+- 群智协同下的大规模自适应学习
+- 人智协同下高阶能力评价与培养
+- 智能时代的教育新形态
+- 智能教育伦理与治理
+
+### 科学之变：历史视角下科学研究范式演进
+
+经验科学-理论科学-计算科学-数据科学-智能科学
+
+![e2ab96e795162ad4f73a9bbea9b037d8](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/e2ab96e795162ad4f73a9bbea9b037d8.jpg)
+
+### 科学之变：AI重构科研流程与科研生态
+
+**从科研工具走向科研主体**
+
+- AI作为工具
+  - 数据处理
+  - 加速计算
+  - 文献检索
+- ai作为助手
+  - 假设生成
+  - 实验设计
+  - 知识迁移
+- ai作为主体
+  - AI科学家
+  - 自动科研
+  - 自主实验室
+
+![9d82c83225afa8d3e221a4664ed9a69f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/9d82c83225afa8d3e221a4664ed9a69f.jpg)
+
+AI**赋能科研的哲学思辨**
+
+本体论-AI成为科研活动的实际执行主体之一
+
+认识论-AI作为认知工具，延伸了人类科学认识的能力边界
+
+方法论-传统“假设-实验-验证”的线性流程正逐步被颠覆
+
+### 科学之变：AI正重新定义科学研究
+
+人工智能不只是服务于科学的工具，它正在重塑科学研究的方法本身。——诺贝尔化学奖得主 Demis Hassabis
+
+纬度一：学科融合
+
+打破传统学科壁垒，推动交叉学科爆发
+
+纬度二：人机协同
+
+重构科研分工模式，释放学者创造潜能
+
+纬度三：知识生产
+
+盘活海量知识存量，催生科研知识增量
+
+**AI重新定义科研**
+
+## 2. 范式演进——AI4S、AI4SS、AI4ES
+
+### Paradigm：范式
+
+范式：是一种对本体论、认识论和方法论的基本承诺，是科学家群体所共同接受的一组假说、理论、准则和方法的总和，这些东西在心理上形成科学家的共同信念。
+
+《科学革命的结构》托马斯.库恩
+
+动态科学发展模式：前科学时期-常规科学-反常与危机-科学革命-新的常规科学
+
+### Empiricism：经验科学-从观察与实验中发现自然规律
+
+通过对自然现象的系统观察、测量和可控实验获取经验事实，并从重复观测中归纳规律
+
+经验范式建立了现代科学的基本证据逻辑：**通过可重复观察和实验，从自然现象中归纳规律**
+
+### Theory：理论科学-用数学规律解释和预测自然
+
+通过数学概念、定律和理论模型对自然现象进行抽象，在统一理论框架下解释已有现象并演绎预测未知现象
+
+从“发现现象规律”走向“构建能够解释和预测现象的理论体系”
+
+### Computation：计算科学-在计算机中模拟复杂自然系统
+
+利用数值计算和计算机模拟求解难以解析处理的复杂科学模型，在数字空间中研究系统结构，演化与响应
+
+计算范式使科学家能够研究“理论已知但无法解析求解”的复杂系统，模拟本身开始成为新的科学研究手段
+
+### e Science：数据科学-从海量科学数据中发现新知识
+
+依托大规模科学仪器、数据库和数据基础设施，对海量异构科学数据进行集成、查询、统计与挖掘，从数据中识别新的模式、关联和规律
+
+- 自动化科学仪器持续产生数据
+- 数据标准化、清洗、标注和长期存储
+- 通过查询、统计和数据挖掘寻找规律
+- 同一份数据支持大量不同科学问题
+
+从“研究少量观测对象”走向“在数据宇宙中发现知识”，数据基础设施已经自动化，但知识发现过程中仍主要由科学家组织
+
+### AI4S：AI for Science 
+
+### AI4S：AI for Science 人工智能驱动科学研究新范式
+
+AIfor Science 是人工智能与科学研究深度融合，通过科学数据、科学知识与机器学习方法的协同，参与科学建模、预测、发现和实验等过程，以提高科研效率并拓展科学发现能力。
+
+Wang H. Fu T, Du Y, ct al Scicntific discovery in the age of artificial intelligence. Nature, 2023, 620(7972): 47-60.
+
+### AI4S：AI赋能科学研究发展
+
+AI在科学研究中的角色正由“功能性工具”走向“协同式助手”，并进一步迈向具备科研主体性的“ai科学家”
+
+功能性-协同性-自主性
+
+![4b3c175f900eeb5c368e72ca0b43bd7c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/4b3c175f900eeb5c368e72ca0b43bd7c.jpg)
+
+### 科学预测工具：AlphaFold重构蛋白质三维结构预测
+
+诺贝尔化学奖表彰David Baker“计算蛋白设计”，Demis Hanssabis和John M.Jumper"蛋白质结构预测"
+
+### 文献调研助手：Elicit智能文献搜索工具
+
+Elicit是一款由Ought公司开发的AI驱动的研究助手，旨在帮助研究人员自动化和优化论文综述、数据提取和研究结果综合等任务
+
+- 智能文献搜索
+- 自动文献总结
+- 结构化数据提取
+- 文献筛选与系统综述
+- 研究报告与证据综合
+
+Elicit以AI贯穿文献检索、筛选、数据提取与证据综合全过程，显著提升科研文献调研的效率与可验证性
+
+### OmniScientist：清华大学&中关村全自动化科学研究平台
+
+让AI像真正的科学家一样“思考、合作、创新”
+
+科学知识-文献调研-假设提出-实验求证-同行评议-科学知识
+
+**扎根于元科学的共性科学方法论、构建支持广谱科学研究的AI Scientists基础设施，做到“懂科学”、“懂科研”、“懂学者”的三重突破**
+
+Shao C, Huang D, Li Y,ct al. Omniscicntist:Toward a co-cvolving ccosystem of human and ai scicntists[J]. arXiv preprint arXiv:2511. 16931, 2025.
+
+![57e9c068ec4669d068c7569eb5fc9e56](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/57e9c068ec4669d068c7569eb5fc9e56.jpg)
+
+### 自主实验室：CRESt让AI进入真实实验世界
+
+![0f1f2be60c919b1c533d786e4da26666](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/0f1f2be60c919b1c533d786e4da26666.jpg)
+
+### AI4SS：AIfor Social Science
+
+### AI4SS：人工智能驱动的社会科学研究新范式
+
+哲学社会科学智能实验范式以生成式智能体为重要实验单元，以真实世界数据和理论知识为基础，在可控、可重复、可干预的虚拟或现实环境中，对社会互动、制度运行和社会演化过程进行建模、模拟和验证。
+
+《中国社会科学》
+迈向哲学社会科学的智能实验范式
+《人文社会科学智能发展蓝皮书》复旦大学出版社
+
+### AI4SS&SS4AI
+
+Ai既在改变“如何研究社会”，也在改变“社会科学研究什么”
+
+![82d6d5b8ec4820d49ff8da2938559b11](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/82d6d5b8ec4820d49ff8da2938559b11.jpg)
+
+### 观察与分析社会：机器学习辅助社会科学研究
+
+机器学习的价值不止是“预测的更准”，更在于发现“什么可以预测、什么难以预测、以及为什么”
+
+![4d4c3a26d61c3673430a604bd7d7671f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/4d4c3a26d61c3673430a604bd7d7671f.png)
+
+### 模拟与仿真社会：斯坦福打造AI虚拟社会
+
+- 革新研究范式
+- 突破研究边界
+- 强化实证能力
+
+![8916c20fb59d1f166a01303b250d1e2c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/8916c20fb59d1f166a01303b250d1e2c.jpg)
+
+### 设计与干预社会：清华大学AgentSociety-v2
+
+![fdcc9c9f71aa564027400cfc722649d8](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/fdcc9c9f71aa564027400cfc722649d8.jpg)
+
+### 图灵实验：大规模复现社会科学实验
+
+![f1d1d1dd48cab08d152ae65740b91e23](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/f1d1d1dd48cab08d152ae65740b91e23.jpg)
+
+### 观察与分析社会：机器学习辅助社会科学研究
+
+![2336ae22f3ca39635846fcbc7e12736a](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/2336ae22f3ca39635846fcbc7e12736a.jpg)
+
+### AI4ES：AI for Educational Science
+
+### AI4ES：人工智能驱动的教育科学研究新范式
+
+![33d5cfd6cd9422833ee90871e4c20977](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/33d5cfd6cd9422833ee90871e4c20977.jpg)
+
+### 教育科学的复杂性：发展中的人及其开放系统
+
+教育科学研究元问题：人的发展如何存在？如何认识人的发展？如何研究人的发展？研究结果
+
+研究对象-形成认识-获得证据-教育行动-塑造-研究对象
+
+![95aa185177137fa2785413541b049608](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/95aa185177137fa2785413541b049608.jpg)
+
+### AI4ES实现本体融合：个体、群体与系统的跨层次整合
+
+![b16781f79379877de8fe721e9dd06673](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b16781f79379877de8fe721e9dd06673.jpg)
+
+### AI4ES实现认识深化：动态测量、理论精化、情境计算
+
+![c40ab4b3c242eb921c4b7800e026b3f5](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/c40ab4b3c242eb921c4b7800e026b3f5.jpg)
+
+### AI4ES实现方法赋能：思辨、量化与质化
+
+![cbf6f0247cb7f0c80526230aabbdc7a3](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/cbf6f0247cb7f0c80526230aabbdc7a3.jpg)
+
+### AI4ES实现研究自主：从研究工具到AI自主教育研究员
+
+![47a59d30bf3b8327e6c6a1cd37e767a2](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/47a59d30bf3b8327e6c6a1cd37e767a2.jpg)
+
+## 3.初步探索——理论、技术、实践
+
+### 3.1 理论探究——量化学习、计算教育学、AI4ES
+
+#### 量化学习
+
+![fa1842ceb2f44aa4a38d5a4801879ef5](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/fa1842ceb2f44aa4a38d5a4801879ef5.jpg)
+
+![588370b379439110a891d8f6e3a16460](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/588370b379439110a891d8f6e3a16460.jpg)
+
+#### 计算教育学
+
+![62b5e286c1a3a555a4771dd1b87894d8](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/62b5e286c1a3a555a4771dd1b87894d8.jpg)
+
+![3ede60bfcf911772cc540569ffd8e296](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/3ede60bfcf911772cc540569ffd8e296.jpg)
+
+![51091758e5aa8d1b79e9cee218314d1d](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/51091758e5aa8d1b79e9cee218314d1d.jpg)
+
+#### AI4ES
+
+![b30c06a3a76ed114dce179ec6cbbf355](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b30c06a3a76ed114dce179ec6cbbf355.jpg)
+
+![87507ef65183f77447cf7759cc0086cb](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/87507ef65183f77447cf7759cc0086cb.jpg)
+
+![732a328072fa70955b8f6ec0bd4e0615](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/732a328072fa70955b8f6ec0bd4e0615.jpg)
+
+### 3.2技术创新——基座模型、主体计算、规律挖掘、模拟仿真
+
+#### 技术创新之基座模型——教育大模型塔式构建法
+
+问题：如何让大模型“更懂教育”？
+
+思路：基于经验之塔的教育大模型多层训练方法
+
+##### 研究背景：通用大模型的发展与教育大模型的需求
+
+![b5618acf0812133f783315c9c865e0bd](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b5618acf0812133f783315c9c865e0bd.jpg)
+
+##### 研究背景：教育大模型塔式构建法的提出
+
+![c564f353185c8e61e08d6cfc3a99d2df](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/c564f353185c8e61e08d6cfc3a99d2df.jpg)
+
+##### 方法细节：塔式构建法的多层次学习过程
+
+![51ce43d14c4d9c1e679812463ef2f434](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/51ce43d14c4d9c1e679812463ef2f434.jpg)
+
+##### 方法细节：塔式构建法和通用大模型构建法的对比
+
+![0ecf21c6050ebe2abb6a8d1cf5f88d15](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/0ecf21c6050ebe2abb6a8d1cf5f88d15.jpg)
+
+##### 方法细节：塔式构建法的效果演示
+
+![d5a995e56ad9bbd9ae1178010910899f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/d5a995e56ad9bbd9ae1178010910899f.jpg)
+
+##### 下游任务分析：基于塔式构建法的试题生成大模型
+
+![ded94544c2362fbc40ff91d279f1bb1a](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/ded94544c2362fbc40ff91d279f1bb1a.jpg)
+
+##### 研究背景：试题生成任务的教育需求
+
+![4c1a08e81af536d0571227e09f032bcd](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/4c1a08e81af536d0571227e09f032bcd-0263708.jpg)
+
+##### 方法设计：塔式构建法驱动的多层次知识学习
+
+![e3610552803c9a21d9633483bff5737a](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/e3610552803c9a21d9633483bff5737a.jpg)
+
+##### 实验分析：效果对比
+
+![248611b14279b0908044a775bd70589f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/248611b14279b0908044a775bd70589f.jpg)
+
+##### 学术成果
+
+![c11fca1b550279db8f17cae2dc388d6f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/c11fca1b550279db8f17cae2dc388d6f.jpg)
+
+#### 技术创新之基座模型——教育大模型持续学习
+
+问题：如何有效缓解教育大模型的灾难性的遗忘？
+
+思路：利用”合成数据+动态回放“锁定并留存”关键记忆“
+
+##### 研究背景：教育大模型推理能力的现状与瓶颈
+
+![66b5e5ad923b2e25229262a616877689](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/66b5e5ad923b2e25229262a616877689.jpg)
+
+##### 研究背景：教育大模型的持续学习与灾难性遗忘
+
+![0f7d73c041c873baf70f7992cffb89c6](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/0f7d73c041c873baf70f7992cffb89c6.jpg)
+
+##### 方法设计：基于合成数据的持续学习框架
+
+![41ad94b6e071c297b88fc5cf23060e35](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/41ad94b6e071c297b88fc5cf23060e35.jpg)
+
+##### 实验分析：下游任务效果
+
+![d4b25be0197b59975905421ac17c1f12](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/d4b25be0197b59975905421ac17c1f12.jpg)
+
+##### 实验分析：合成数据效果分析
+
+![9c092f7e62cd03b800514e9a6c2f37f5](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/9c092f7e62cd03b800514e9a6c2f37f5.jpg)
+
+##### 学术成果
+
+![33d684c3c3da9d2c1366089e9633fe21](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/33d684c3c3da9d2c1366089e9633fe21.jpg)
+
+#### 技术创新之主体计算——多通道无扰感知
+
+问题：如何在开放无扰场景下精准感知学习者生理与心理状态？
+
+思路：研发新型感知技术与装备，比如mmWave、rPPG、BCG
+
+##### 无扰感知：mmWave毫米波雷达
+
+![5ddd9b4b827243576decfeb98b551804](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/5ddd9b4b827243576decfeb98b551804.jpg)
+
+##### 无扰感知：mmWave毫米波雷达
+
+![8c7f2418f0880b9d18ffa5f3f6ee7a31](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/8c7f2418f0880b9d18ffa5f3f6ee7a31.jpg)
+
+##### 无扰感知：rPPG远程光电容积脉搏波
+
+![556ccc3049da1f3fb56237ab9fe2e6d7](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/556ccc3049da1f3fb56237ab9fe2e6d7.jpg)
+
+##### 无扰感知：BCG心搏冲击图
+
+![c2feb156f569ec4745a2bb43ee55e092](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/c2feb156f569ec4745a2bb43ee55e092.jpg)
+
+##### mmWaveVSrPPGVSBCG
+
+![34da044a0873f5917c4b959d6b6d4c67](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/34da044a0873f5917c4b959d6b6d4c67.jpg)
+
+##### 三种无扰感知技术的适用条件
+
+![9a3d5c385ebb45528f54111f8aeb68f4](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/9a3d5c385ebb45528f54111f8aeb68f4.jpg)
+
+##### 案例一：基于mmWave的非接触学习疲劳检测
+
+![72e392ee5fb6c50285370232129589a8](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/72e392ee5fb6c50285370232129589a8.jpg)
+
+![4368a480fb15a3c86d34995d04294793](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/4368a480fb15a3c86d34995d04294793.jpg)
+
+![d4ac43e1fa9e566bfae0b464951a02fa](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/d4ac43e1fa9e566bfae0b464951a02fa.jpg)
+
+##### 案例二：基于rPPG的非接触学习疲劳检测
+
+![2ec16edcef0374c7244b4f01d317f641](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/2ec16edcef0374c7244b4f01d317f641.jpg)
+
+##### 案例三：基于BCG的心率检测
+
+![33d3984d8ef7db3b36a16b33f370c1f2](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/33d3984d8ef7db3b36a16b33f370c1f2.jpg)
+
+##### 智能感知实验室
+
+![1abf6e3bc7b9da0572fba0363212025c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/1abf6e3bc7b9da0572fba0363212025c.jpg)
+
+##### 近期目标
+
+![2bf73762daf174d997e5e645efb169bf](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/2bf73762daf174d997e5e645efb169bf.jpg)
+
+##### 学术成果
+
+![668706242a2af1d57c641d80881d956d](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/668706242a2af1d57c641d80881d956d.jpg)
+
+#### 技术创新之主体计算——可视化认知表征
+
+问题：如何看见学生观看视频时大脑内部的认知表征
+
+思路：EEG闹信号解码+扩散模型图像重建+语义一致性指标
+
+##### 研究背景：从“学习结果”走向“学习过程”
+
+![12cfdf019047e22306f7a2932fe18d8c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/12cfdf019047e22306f7a2932fe18d8c.jpg)
+
+##### 研究背景：从“黑盒”到“可视化”解码大脑内部认知表征
+
+![88f84b8d3b2ed6f85fc0a7332ce86ac9](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/88f84b8d3b2ed6f85fc0a7332ce86ac9.jpg)
+
+##### 研究背景：从“重建视觉表征”走向“验证学习意义”
+
+![58b31902de5a559104616fffea80a689](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/58b31902de5a559104616fffea80a689.jpg)
+
+##### 方法设计：自然视频学习实验与两个核心指标
+
+![e8b222287574e4d24ac0a7617ac06a1c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/e8b222287574e4d24ac0a7617ac06a1c.jpg)
+
+##### 方法设计：从EEG信号到可计算的视觉语义重建
+
+![e0c51461a54cc9caa946e905761da040](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/e0c51461a54cc9caa946e905761da040.jpg)
+
+##### 实验分析：重建质量与整体学业表现正相关
+
+![612dd95bc9555f7618c861138ad3e4bc](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/612dd95bc9555f7618c861138ad3e4bc.jpg)
+
+##### 实验分析：正确作答片段的SCS显著更高
+
+![52a042dd3789cfd050507b644d2a9b8c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/52a042dd3789cfd050507b644d2a9b8c.jpg)
+
+##### 实验分析：时间错位揭示认知表征的动态性
+
+![b9262947bbe37861cd247dc74a395852](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b9262947bbe37861cd247dc74a395852.jpg)
+
+##### 研究成果
+
+![6ca4a856cdd44ddfd979374bdc71513c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/6ca4a856cdd44ddfd979374bdc71513c.jpg)
+
+#### 技术创新之主体计算——可解释知识追踪
+
+问题：如何推动知识追踪从预测走向决策？
+思路：发展具有干预、反事实能力的因果知识追踪模型
+
+##### 研究背景：个性化学习为何需要知识追踪
+
+![ec84343806a66eb9541c8e9007df99ef](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/ec84343806a66eb9541c8e9007df99ef.jpg)
+
+##### 研究背景：如何知其然且知其所以然？
+
+![dc4e5a4d70502519516cf0f0a6bf52a8](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/dc4e5a4d70502519516cf0f0a6bf52a8.jpg)
+
+##### 研究背景：从“因果归因”到“反事实决策”
+
+![ee7853322d6801b648239b4b73d8b648](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/ee7853322d6801b648239b4b73d8b648.jpg)
+
+##### 核心问题：如何解释DLKT为何做出当前预测？
+
+![13b62682e8fd42cbf89dc3f4ff5cfb8e](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/13b62682e8fd42cbf89dc3f4ff5cfb8e.jpg)
+
+##### 方法设计：基于删除式干预的因果归因度量
+
+![9e4c9b3a33d08d491fc35ff9311b8dc1](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/9e4c9b3a33d08d491fc35ff9311b8dc1.jpg)
+
+##### 方法设计：基于遗传搜索发现最优解释子序列
+
+![6cd14aa3c443bc2e46d4b6105e67061c](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/6cd14aa3c443bc2e46d4b6105e67061c.jpg)
+
+##### 实验分析：GCE方法的性能验证
+
+![b1d3b5fd79f24535a3b4e1b750fe2368](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b1d3b5fd79f24535a3b4e1b750fe2368.jpg)
+
+##### 实验分析：GCE的预测归因案例
+
+![8edac6c56a700f06939d1d264275ecae](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/8edac6c56a700f06939d1d264275ecae.jpg)
+
+##### 方法设计：将反事实学习路径转化为双目标搜索问题
+
+![b3c4ebc00738caee94c839156ec90714](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b3c4ebc00738caee94c839156ec90714.jpg)
+
+##### 实验分析：DSMOEA以较好追加练习获得更高预测增益
+
+![b7ac3b211d5a9d1c623558c5bf90dc13](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b7ac3b211d5a9d1c623558c5bf90dc13.jpg)
+
+##### 实验分析：从反事实解释到个性化练习路径
+
+![1b2cb09e976c5da6fba2dd9704d72827](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/1b2cb09e976c5da6fba2dd9704d72827.jpg)
+
+##### 方法设计：DSMOEA的两项关键搜索策略
+
+![a15ea7a9e697b7e15cbc23637a04067b](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/a15ea7a9e697b7e15cbc23637a04067b.jpg)
+
+##### 学术成果
+
+![73d4c199fd8a56ef45ec37ca9ba8d09d](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/73d4c199fd8a56ef45ec37ca9ba8d09d.jpg)
+
+#### 技术创新之主体计算——认知型情绪识别
+
+问题：如何精准识别细粒度多类别的认知型情绪？
+
+思路：领域知识增强+多重对比学习
+
+##### 研究背景：情感计算是什么
+
+![6025eef3ce69d6891dd1aa48c8cedb95](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/6025eef3ce69d6891dd1aa48c8cedb95.jpg)
+
+##### 研究背景：教育情感计算——从情感极性走向认知状态理解
+
+![fcaec6bf09258abfaf86629671e38624](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/fcaec6bf09258abfaf86629671e38624.jpg)
+
+##### 方法设计：认知型清洗定义与八类识别任务
+
+![d6911c9ba5eb8fbd0577b0dbf3673fd7](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/d6911c9ba5eb8fbd0577b0dbf3673fd7.jpg)
+
+##### 方法设计：ES-DCL的两个核心模块
+
+![90eb18e0f74ead5534ce113fe9902fd3](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/90eb18e0f74ead5534ce113fe9902fd3.jpg)
+
+##### 方法设计：ES-DCL完整流程——从输入构造到八类情绪预测
+
+![8d3e00dc311d4741054b85c7d87d8dbd](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/8d3e00dc311d4741054b85c7d87d8dbd.jpg)
+
+##### 实验分析：数据构建与总体识别性能
+
+![77bf000faf16c07467f654e62feb5dc6](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/77bf000faf16c07467f654e62feb5dc6.jpg)
+
+##### 实验分析：迁移、消融与表征可视化验证方法有效性
+
+![cfc7797e669e0ba03d7c8576dcf8d1c0](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/cfc7797e669e0ba03d7c8576dcf8d1c0.jpg)
+
+##### 研究延伸：从个体情绪识别到群体情绪共演化
+
+![16a6745bdea1113ab4d0d8a77fec9ca2](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/16a6745bdea1113ab4d0d8a77fec9ca2.jpg)
+
+##### 研究延伸：群体情绪共演化的主要发现
+
+![8a4a5dd24b4ae4a584da2120e666678a](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/8a4a5dd24b4ae4a584da2120e666678a.jpg)
+
+##### 学术成果：代表性论文与研究影响
+
+![cffaa0b56dc3fa2b7a5131ed631a9704](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/cffaa0b56dc3fa2b7a5131ed631a9704.jpg)
+
+#### 技术创新之主体计算——情景化素养测评
+
+问题：如何使素养测评从自我报告走向真实情境？
+
+思路：多智能体协同的情境化测评资源生成
+
+##### 研究背景：什么是素养，为什么要测？
+
+![dd633c413fef4566ceb376171fb97c73](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/dd633c413fef4566ceb376171fb97c73.jpg)
+
+##### 研究背景：复杂素养为什么更需要情境化测评？
+
+![581c84599a558c1d09db508b65df5c8a](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/581c84599a558c1d09db508b65df5c8a.jpg)
+
+##### 研究背景：情境化测评的规模化瓶颈
+
+![23c0ba64df6e089ae4aa0ca437759467](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/23c0ba64df6e089ae4aa0ca437759467.jpg)
+
+##### 研究背景：现有自动题目生成方法仍难支撑教育测评资源生成
+
+![dee7538e7f09db4ec4d92b933e536809](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/dee7538e7f09db4ec4d92b933e536809.jpg)
+
+##### 方法设计：多智能体框架AES的构建思路
+
+![e135d5cb0e6edd57ed903f52f55385b7](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/e135d5cb0e6edd57ed903f52f55385b7.jpg)
+
+##### 方法设计：AES把人工开发流程改造成可循环的多智能体协作
+
+![58888f5bd86fdda11fbcde3cb36e561b](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/58888f5bd86fdda11fbcde3cb36e561b.jpg)
+
+##### 方法设计：三类智能体协同完成出题、评审、试测与修订
+
+![257d5f12d752e7ae46cb5c00588fb9c8](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/257d5f12d752e7ae46cb5c00588fb9c8.jpg)
+
+##### 实验分析：不仅让AI自测，还要让真实学生来答
+
+![7f968088927ecc4d45ab0fddde7b797a](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/7f968088927ecc4d45ab0fddde7b797a.jpg)
+
+##### 学术成果
+
+![31cad9c26a50fe571152d5a81e453d47](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/31cad9c26a50fe571152d5a81e453d47.jpg)
+
+#### 技术创新之规律挖掘——深度符号回归法
+
+问题：如何从大模型真实学习行为数据中自动挖掘规律方程？
+
+思路：深度学习+符号回归
+
+##### 研究背景：规律是什么？学习规律又是什么？
+
+![a5858a7dd63a9af4d695dc26427f6318](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/a5858a7dd63a9af4d695dc26427f6318.jpg)
+
+##### 研究背景：传统实验范式存在争议，难以推广到真实场景
+
+![1e7ad8d3022900824c758565444227a8](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/1e7ad8d3022900824c758565444227a8.jpg)
+
+##### 研究背景：通过深度符号回归方法自动挖掘学习规律
+
+![334b599311e0675eb9804d8cca835ca2](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/334b599311e0675eb9804d8cca835ca2.jpg)
+
+##### 方法设计：深度学习与符号回归融合建模
+
+![a7b941f4d2c877e7efcced0f0747269b](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/a7b941f4d2c877e7efcced0f0747269b.jpg)
+
+##### 方法设计：深度表征学习过程
+
+![82925059567fa9601fa2e5ee520076e7](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/82925059567fa9601fa2e5ee520076e7.jpg)
+
+##### 实验分析：仿真实验设计
+
+![0edae9aa23d095dddc554a2843a82e59](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/0edae9aa23d095dddc554a2843a82e59.jpg)
+
+##### 实验分析：仿真实验结果
+
+![1ed1269c5448380d1e86a5bad08f319f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/1ed1269c5448380d1e86a5bad08f319f.jpg)
+
+##### 实验分析：揭示新的学习规律形式
+
+![b5bcbec03707de419bdcf64c0fedf222](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/b5bcbec03707de419bdcf64c0fedf222.jpg)
+
+##### 学习成果：学术贡献
+
+![4ea5a304691d980cafd644b436255934](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/4ea5a304691d980cafd644b436255934.jpg)
+
+##### 学术成果：第三方评价
+
+![5b1347f17cadddc9fc37cac4d4a3266f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/5b1347f17cadddc9fc37cac4d4a3266f.jpg)
+
+#### 技术创新之规律挖掘——PsyINN：心理信息神经网络
+
+问题：如何利用领域先验知识提升模型性能？
+
+思路：知识与数据双驱动，目标函数约束+动态双向知识蒸馏
+
+##### 研究背景：词汇学习&记忆规律
+
+![a7ae2ed86b93750aa78fe7896837fe23](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/a7ae2ed86b93750aa78fe7896837fe23.jpg)
+
+##### 研究背景：经典记忆规律形式
+
+![3d8b1acbfdfb4a182ea8906679e5005f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/3d8b1acbfdfb4a182ea8906679e5005f.jpg)
+
+##### 研究背景：由PINN到PsyINN
+
+![6007336f83433097afe407eff5ee26b0](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/6007336f83433097afe407eff5ee26b0.jpg)
+
+##### 方法设计：PsyINN技术框架
+
+![bc8c588bff019bbf14834364016a261a](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/bc8c588bff019bbf14834364016a261a.jpg)
+
+##### 实验分析：三类典型认知建模任务
+
+![3b8ee3b10242843f5064961ee9b08c11](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/3b8ee3b10242843f5064961ee9b08c11.jpg)
+
+##### 实验分析：方程结构演化分析
+
+![13c85a0ee3f8f9d5d766801e844b00ba](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/13c85a0ee3f8f9d5d766801e844b00ba.jpg)
+
+##### 学术成果
+
+![7604f97a63e30daa8455d3a2491c5bf7](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/7604f97a63e30daa8455d3a2491c5bf7.jpg)
+
+#### 技术创新之规律挖掘——理论分析
+
+问题：回答方程学习器如何稳定发现规律？
+
+思路：错误分析+理论推导+方法改进
+
+##### 研究背景：方程学习器是什么？
+
+![efca4e00881ce67dda278a6460b9f764](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/efca4e00881ce67dda278a6460b9f764.jpg)
+
+##### 研究背景：方程学习器的潜力与局限
+
+![0037028fa7a54ed70f06475017f3c4c2](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/0037028fa7a54ed70f06475017f3c4c2.jpg)
+
+##### 方法设计：结构恢复的受控诊断
+
+![fb308bdb96d71eb1f72ac1ee92ee65ae](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/fb308bdb96d71eb1f72ac1ee92ee65ae.jpg)
+
+##### 方法设计：结构恢复的理论机制分析
+
+![08d4237165cc3107fb908d51ae5676a4](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/08d4237165cc3107fb908d51ae5676a4.jpg)
+
+##### 方法设计：让冗余路径静默、让结构受控生长、精调系数
+
+![fedc09217ab419884a3f7692450f95c9](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/fedc09217ab419884a3f7692450f95c9.jpg)
+
+##### 实验分析：EQL-Z的机制与公式恢复性能验证
+
+![6bdb2d45765b0e40e9c1ea3e4972a39e](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/6bdb2d45765b0e40e9c1ea3e4972a39e.jpg)
+
+##### 学术成果
+
+![1a7b613ab7d8444ea86ba10b403411b5](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/1a7b613ab7d8444ea86ba10b403411b5.jpg)
+
+#### 技术创新之模拟仿真——SSE：多层次学生模拟
+
+问题：如何让大模型模拟不同类型和层次的学生，尤其是学困生？
+
+思路：IDEAL理论分析+类人错误注入
+
+##### 研究背景
+
+![a28282f85f8be696ed172fb30a7f40e3](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/a28282f85f8be696ed172fb30a7f40e3.jpg)
+
+##### 研究背景
+
+![d35167b1a27e05f1be1e3cca264faddc](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/d35167b1a27e05f1be1e3cca264faddc.jpg)
+
+##### 方法设计-总览
+
+![93fc5bcf1df45eae79ddcbc406c2b5cc](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/93fc5bcf1df45eae79ddcbc406c2b5cc.jpg)
+
+##### 方法设计细节-控制智能体
+
+![a78fc74b43be603f2e280f2e3763a9db](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/a78fc74b43be603f2e280f2e3763a9db.jpg)
+
+##### 实验分析：两类评测场景与评价指标
+
+![421ae669afa11b7ff54224f41fc113af](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/421ae669afa11b7ff54224f41fc113af.jpg)
+
+##### 实验分析：题目解答情况-效果对比
+
+![f7fc2cb9ed9e7924a65985142cf1fce1](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/f7fc2cb9ed9e7924a65985142cf1fce1.jpg)
+
+##### 实验分析：多轮答疑对话-效果对比
+
+![51b24b6ea77a5d94ec219c7eac186d3d](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/51b24b6ea77a5d94ec219c7eac186d3d.jpg)
+
+##### 学术成果
+
+![8501317fa6bb4c1ee83cd30478b3741f](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/8501317fa6bb4c1ee83cd30478b3741f.jpg)
+
+#### 技术创新之模拟仿真——AgentClass：多尺度课堂学习
+
+问题：如何模拟长周期多尺度课堂学习，支持从微观行为到宏观现象的教育实验？
+
+思路：多智能+课内课外+微观宏观建模
+
+##### 研究背景
+
+![3ba223e4096dee7a6b7f6a227605bea7](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/3ba223e4096dee7a6b7f6a227605bea7.jpg)
+
+##### 相关工作：基于智能体的课堂仿真
+
+![47dd93327c0aed7b745a20a29fd67e6e](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/47dd93327c0aed7b745a20a29fd67e6e.jpg)
+
+##### 观察1:通用模拟引领教育模拟
+
+![ac2f740505a07de3cc3fca0eac5efb45](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/ac2f740505a07de3cc3fca0eac5efb45.jpg)
+
+观察2:现有教育模拟在“长周期”、“多尺度”方面仍有不足
+
+![d9d1463be7c73b765e0a6c2455658f19](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/d9d1463be7c73b765e0a6c2455658f19.jpg)
+
+##### 方法设计：AgentClass框架-总览
+
+![397fc6215d75de1ad42b4f777c873d1d](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/397fc6215d75de1ad42b4f777c873d1d.jpg)
+
+##### 关键机制
+
+![43de559ea1717249fd86043c5d069b11](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/43de559ea1717249fd86043c5d069b11.jpg)
+
+##### 实验分析：微观层面
+
+![aa1f54fcdd8cd0238ad2cc2ac772c255](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/aa1f54fcdd8cd0238ad2cc2ac772c255.jpg)
+
+##### 实验分析：宏观层面
+
+![6cbc62f49d0543ae05133adf2f97522b](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/6cbc62f49d0543ae05133adf2f97522b.jpg)
+
+##### 学术成果
+
+![8dc61cff15093c145926f7be177eeccd](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/8dc61cff15093c145926f7be177eeccd.jpg)
+
+##### 实验分析：教育效应复现
+
+![3d93822e675ba48656cc297a2928f973](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/3d93822e675ba48656cc297a2928f973.jpg)
+
+#### 技术创新之模拟仿真——AgentMOOC：大规模在线讨论
+
+问题：如何实现面向大模型参与者与复杂互动关系的教育场景模拟？
+
+思路：活动参与者+环境创设者+过程观察者
+
+##### 研究背景：MOOC讨论区
+
+![48a4b432a7691c42cd5764123a57d644](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/48a4b432a7691c42cd5764123a57d644.jpg)
+
+##### AgentMOOC总体概览
+
+![40f075216f0261481c54bf75ca86c12e](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/40f075216f0261481c54bf75ca86c12e.jpg)
+
+##### 模拟效果
+
+![58f58e4aa87c994dedc13009a80ab716](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/58f58e4aa87c994dedc13009a80ab716.jpg)
+
+##### AgentMOOC方法设计
+
+![15b8613fe04dcf2afb9a8607c1013b39](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/15b8613fe04dcf2afb9a8607c1013b39.jpg)
+
+##### 汗马：智慧教育基座平台
+
+![image-20260925015408628](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/image-20260925015408628.png)
+
+![805577138dd96348bca77f63c943e86e](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/805577138dd96348bca77f63c943e86e.jpg)
+
+![abc59faf66cae7620249aa02a4de0329](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/abc59faf66cae7620249aa02a4de0329.jpg)
+
+##### 小雅：智能教学平台
+
+![60b235776932573341a44210452077d9](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/60b235776932573341a44210452077d9.jpg)
+
+##### 师说：教师教育大模型
+
+![4074cabc6d6ef5a5629f9870558f51c3](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/4074cabc6d6ef5a5629f9870558f51c3.jpg)
+
+![666fcb096d075a202f8eabe8e6684cf5](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/666fcb096d075a202f8eabe8e6684cf5.jpg)
+
+## 4.未来展望——趋势、挑战
+
+### 趋势一：新工具——AI4ES垂类工作平台
+
+![9723f182d85fb64ae654c0c6a0ee12e1](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/9723f182d85fb64ae654c0c6a0ee12e1.jpg)
+
+### 趋势二：新机制——人机协同复合科学家
+
+![c1682432f4ac0d5f1f47749e84557015](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/c1682432f4ac0d5f1f47749e84557015.jpg)
+
+### 趋势三：新形态——科教融合教育工作者
+
+![1366e2ae3dce5a9312bbfa836c48651e](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/1366e2ae3dce5a9312bbfa836c48651e.jpg)
+
+### 挑战一：认知退化
+
+![20a619eced782f5b94660e32b5a5cb47](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/20a619eced782f5b94660e32b5a5cb47.jpg)
+
+### 挑战二：群体同质
+
+![c75ddfcd46277c24352b4a4a36385db9](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/c75ddfcd46277c24352b4a4a36385db9.jpg)
+
+### 挑战三：伦理守护
+
+![ff48722614c9f8d95ee00e5e0437f493](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/ff48722614c9f8d95ee00e5e0437f493.jpg)
+
+![396a3be761f1d2735b601aacdfb1a2a6](./AI4ES%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A9%B1%E5%8A%A8%E7%9A%84%E6%95%99%E8%82%B2%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6-%E5%AD%99%E5%BB%BA%E6%96%87.assets/396a3be761f1d2735b601aacdfb1a2a6.jpg)
