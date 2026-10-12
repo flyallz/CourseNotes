@@ -2,7 +2,7 @@
 
 从“知识搬运工”到“创新架构师”的思维进化指南
 
-讲授者：陈明远
+讲授者：陈明选
 
 ## 1. 未来已来：学习的革命
 
@@ -14,9 +14,9 @@ ai正在重塑知识版图，传统的”知识搬运“式学习陷入价值危
 
 计算智能-感知智能-认知智能（大语言模型）-具身智能（世界模型）
 
-![b819bfccfe0572e6bebbb61638549d0f](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/b819bfccfe0572e6bebbb61638549d0f.jpg)
+![b819bfccfe0572e6bebbb61638549d0f](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/b819bfccfe0572e6bebbb61638549d0f.jpg)
 
-![59d19b98608453347595ad1b7b420efe](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/59d19b98608453347595ad1b7b420efe.jpg)
+![59d19b98608453347595ad1b7b420efe](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/59d19b98608453347595ad1b7b420efe.jpg)
 
 #### ai时代教育之问？
 
@@ -65,9 +65,9 @@ ai正在重塑知识版图，传统的”知识搬运“式学习陷入价值危
 
 智慧建立在高纬知识结构之上。
 
-![59bd021bb84988f7dd2efe5addee7a47](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/59bd021bb84988f7dd2efe5addee7a47.jpg)
+![59bd021bb84988f7dd2efe5addee7a47](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/59bd021bb84988f7dd2efe5addee7a47.jpg)
 
-![d565b3859e9d475a42bfac26e6f89ca2](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/d565b3859e9d475a42bfac26e6f89ca2.jpg)
+![d565b3859e9d475a42bfac26e6f89ca2](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/d565b3859e9d475a42bfac26e6f89ca2.jpg)
 
 #### 2.何为“创新架构师”这是一种追求智慧养成的全新学习者姿态和能力模型
 
@@ -81,7 +81,7 @@ ai正在重塑知识版图，传统的”知识搬运“式学习陷入价值危
 
 价值的创造者
 
-![eb8ec11d8c3eff6efd8cffbf9d375526](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/eb8ec11d8c3eff6efd8cffbf9d375526.jpg)
+![eb8ec11d8c3eff6efd8cffbf9d375526](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/eb8ec11d8c3eff6efd8cffbf9d375526.jpg)
 
 #### 3.从答案到问题
 
@@ -93,7 +93,7 @@ ai正在重塑知识版图，传统的”知识搬运“式学习陷入价值危
 
 what、why、who、when、where、how
 
-![6d38c7669c2dde19975edfd8ebc6251f](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/6d38c7669c2dde19975edfd8ebc6251f.jpg)
+![6d38c7669c2dde19975edfd8ebc6251f](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/6d38c7669c2dde19975edfd8ebc6251f.jpg)
 
 费曼学习法
 
@@ -107,7 +107,7 @@ what、why、who、when、where、how
 
 AI角色选对了，学习机制才会被激活
 
-![fc695deb38abe348ad6c74c7208501c1](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/fc695deb38abe348ad6c74c7208501c1.jpg)
+![fc695deb38abe348ad6c74c7208501c1](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/fc695deb38abe348ad6c74c7208501c1.jpg)
 
 ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
@@ -121,7 +121,7 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
    善用网络资源
 
-   ![feb37e869b6e262a5573b7c6436fd655](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/feb37e869b6e262a5573b7c6436fd655.jpg)
+   ![feb37e869b6e262a5573b7c6436fd655](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/feb37e869b6e262a5573b7c6436fd655.jpg)
 
 5. 从记忆到创造
 
@@ -131,7 +131,7 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
    动手构建原型
 
-   ![389c4f7916d57918db28a252a6d0f97d](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/389c4f7916d57918db28a252a6d0f97d.jpg)
+   ![389c4f7916d57918db28a252a6d0f97d](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/389c4f7916d57918db28a252a6d0f97d.jpg)
 
 6. 进化为创新架构师
 
@@ -141,7 +141,7 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
 ​	定义未来
 
-![f373a2b899ef13a9281c7e79dfd54887](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/f373a2b899ef13a9281c7e79dfd54887.jpg)
+![f373a2b899ef13a9281c7e79dfd54887](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/f373a2b899ef13a9281c7e79dfd54887.jpg)
 
 ## 3. 协同进化：人机新范式
 
@@ -159,13 +159,13 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
 编程学习伙伴
 
-![cf47337320601f010c6dec549fb3c08a](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/cf47337320601f010c6dec549fb3c08a.jpg)
+![cf47337320601f010c6dec549fb3c08a](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/cf47337320601f010c6dec549fb3c08a.jpg)
 
 #### 2.人机协同四步法
 
 精准定义任务、迭代优化指令、批判性评估结果、整合与再创造
 
-![6d39983c23dd77b4bab2c76ca222cc7c](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/6d39983c23dd77b4bab2c76ca222cc7c.jpg)
+![6d39983c23dd77b4bab2c76ca222cc7c](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/6d39983c23dd77b4bab2c76ca222cc7c.jpg)
 
 ### 3.警惕“智能”陷阱
 
@@ -177,7 +177,7 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
 认知能力的退化
 
-![ac46aaf1a8a4cf2c1a2c2797167b11a8](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/ac46aaf1a8a4cf2c1a2c2797167b11a8.jpg)
+![ac46aaf1a8a4cf2c1a2c2797167b11a8](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/ac46aaf1a8a4cf2c1a2c2797167b11a8.jpg)
 
 ## 4. 行动指南：开启进化之旅
 
@@ -191,7 +191,7 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
 横纵交织创新
 
-![f7e27b970f868c7e91b2f747f87418e2](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/f7e27b970f868c7e91b2f747f87418e2.jpg)
+![f7e27b970f868c7e91b2f747f87418e2](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/f7e27b970f868c7e91b2f747f87418e2.jpg)
 
 #### 2.拥抱项目式学习
 
@@ -205,7 +205,7 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
 迭代并展示成果
 
-![c116c483a8d5d6e09b3c2b7cb798ef0a](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/c116c483a8d5d6e09b3c2b7cb798ef0a.jpg)
+![c116c483a8d5d6e09b3c2b7cb798ef0a](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/c116c483a8d5d6e09b3c2b7cb798ef0a.jpg)
 
 ### 构建个人成长系统
 
@@ -217,7 +217,7 @@ ai不是模糊的“助手”，而是被赋予明确教学身份的角色
 
 坚持终身学习
 
-![77cdf261ca24cfbd769935d7b57f778a](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E8%BF%9C.assets/77cdf261ca24cfbd769935d7b57f778a.jpg)
+![77cdf261ca24cfbd769935d7b57f778a](./AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%A6%E4%B9%A0%E9%9D%A9%E5%91%BD-%E9%99%88%E6%98%8E%E9%80%89.assets/77cdf261ca24cfbd769935d7b57f778a.jpg)
 
 ## 结语
 
